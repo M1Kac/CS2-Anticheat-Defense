@@ -21,7 +21,7 @@
 
 1. Download the latest `CS2-RedEye-Anticheat.zip` from Author Discord
 2. Extract contents to your `csgo/addons/counterstrikesharp/plugins` directory
-3. Configure settings in `configs/plugins/RedEye.json`
+3. Configure settings in `configs/plugins/RedEye/RedEye.json`
 4. Restart your server!
 
 ---
