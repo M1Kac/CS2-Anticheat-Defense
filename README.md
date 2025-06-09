@@ -3,7 +3,7 @@
 + PRICE 10$ ( One Time Payment )
 ```
 
-# CS2-RedEye-Anticheat
+# CS2 Anticheat Detector
 
 ### CS2 AntiCheat Plugin based on CounterStrikeSharp helps prevent against cheaters.
 
@@ -19,9 +19,9 @@
 
 ## Installation
 
-1. Download the latest `CS2-RedEye-Anticheat.zip` from Author Discord
+1. Download the latest `CS2-Anticheat-Detector.zip` from Author Discord
 2. Extract contents to your `csgo/addons/counterstrikesharp/plugins` directory
-3. Configure settings in `configs/plugins/RedEye/RedEye.json`
+3. Configure settings in `configs/plugins/ACD/ACD.json`
 4. Restart your server!
 
 ---
