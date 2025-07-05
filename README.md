@@ -33,7 +33,7 @@
 -  Spinbot
 -  Rapid-Fire
 -  Bunnyhop
--  Wallhack
+-  Silent Aim
 
-## Author Contact: aceflick_zeus
+## Author Discord Contact: aceflick_zeus
 
