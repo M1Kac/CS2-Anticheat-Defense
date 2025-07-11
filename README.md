@@ -7,6 +7,9 @@
 
 ### CS2 AntiCheat Plugin based on CounterStrikeSharp helps prevent against cheaters.
 
+
+Due to the presence of too many cheaters and too many spammers abusing your community server. We have created an Anti-Cheat Detector that is maximally optimized, but still effective against cheaters and spammers, which does not consume many resources like other ACs. It is quite effective in critical moments such as cheating, spamming and abuse. Easy and fully configurable, it also has integrated Discord notification with log
+
 ---
 
 ## Dependencies
@@ -26,6 +29,12 @@
 
 ---
 
+## AntiSpam (Included Modules)
+
+- AntiChatAbuse
+- AntiRadioAbuse
+- AntiNickNameAbuse
+
 
 ## Detections
 
@@ -34,6 +43,10 @@
 -  Rapid-Fire
 -  Bunnyhop
 -  Silent Aim
+-  Wallhack (not fully supported, but included detections)
+
+## Discord Webhook
+- You will receive notifications for every action from ACD
 
 ## Author Discord Contact: aceflick_zeus
 
