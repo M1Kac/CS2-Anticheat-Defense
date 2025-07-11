@@ -31,22 +31,23 @@ Due to the presence of too many cheaters and too many spammers abusing your comm
 
 ## AntiSpam (Included Modules)
 
-- AntiChatAbuse
-- AntiRadioAbuse
-- AntiNickNameAbuse
+- **AntiChatAbuse**
+- **AntiRadioAbuse**
+- **AntiNickNameAbuse**
 
 
 ## Detections
 
--  Aimbot
--  Spinbot
--  Rapid-Fire
--  Bunnyhop
--  Silent Aim
--  Wallhack (not fully supported, but included detections)
+-  **Aimbot**
+-  **Spinbot**
+-  **Rapid-Fire**
+-  **Bunnyhop**
+-  **Wallhack** `(not fully supported, but included detections)`
 
 ## Discord Webhook
 - You will receive notifications for every action from ACD
+
+---
 
 ## Author Discord Contact: aceflick_zeus
 
