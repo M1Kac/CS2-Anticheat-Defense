@@ -40,6 +40,7 @@ Due to the presence of too many cheaters and too many spammers abusing your comm
 
 -  **Aimbot**
 -  **Spinbot**
+-  **TriggerBot**
 -  **Rapid-Fire**
 -  **Bunnyhop**
 -  **Wallhack** `(not fully supported, but included detections)`
