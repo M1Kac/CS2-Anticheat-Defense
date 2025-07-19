@@ -31,19 +31,19 @@ Due to the presence of too many cheaters and too many spammers abusing your comm
 
 ## AntiSpam (Included Modules)
 
-- **AntiChatAbuse**
-- **AntiRadioAbuse**
-- **AntiNickNameAbuse**
+- [x] **AntiChatAbuse**
+- [x] **AntiRadioAbuse**
+- [x] **AntiNickNameAbuse**
 
 
 ## Detections
 
--  **Aimbot**
--  **Spinbot**
--  **TriggerBot**
--  **Rapid-Fire**
--  **Bunnyhop**
--  **Wallhack** `(not fully supported, but included detections)`
+- [x]  **Aimbot**
+- [x]  **Spinbot**
+- [x]  **TriggerBot**
+- [x]  **Rapid-Fire**
+- [x]  **Bunnyhop**
+- [ ]  **Wallhack** `(not fully supported, but included detections)`
 
 ## Discord Webhook
 - You will receive notifications for every action from ACD
