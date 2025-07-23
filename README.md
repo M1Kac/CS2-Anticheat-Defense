@@ -8,7 +8,7 @@
 ### CS2 AntiCheat Plugin based on CounterStrikeSharp helps prevent against cheaters.
 
 
-Due to the presence of too many cheaters and too many spammers abusing your community server. We have created an Anti-Cheat Detector that is maximally optimized, but still effective against cheaters and spammers, which does not consume many resources like other ACs. It is quite effective in critical moments such as cheating, spamming and abuse. Easy and fully configurable, it also has integrated Discord notification with log
+Due to the presence of too many cheaters and too many spammers abusing your community server. We have created an Anti-Cheat Defense that is maximally optimized, but still effective against cheaters and spammers, which does not consume many resources like other ACs. It is quite effective in critical moments such as cheating, spamming and abuse. Easy and fully configurable, it also has integrated Discord notification with log
 
 ---
 
@@ -22,7 +22,7 @@ Due to the presence of too many cheaters and too many spammers abusing your comm
 
 ## Installation
 
-1. Download the latest `CS2-Anticheat-Detector.zip` from Author Discord
+1. Download the latest `CS2-Anticheat-Defense.zip` from Author Discord
 2. Extract contents to your `csgo/addons/counterstrikesharp/plugins` directory
 3. Configure settings in `configs/plugins/ACD/ACD.json`
 4. Restart your server!
