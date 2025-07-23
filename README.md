@@ -3,7 +3,7 @@
 + PRICE 10$ ( One Time Payment )
 ```
 
-# CS2 Anticheat Detector
+# CS2 Anticheat Defense
 
 ### CS2 AntiCheat Plugin based on CounterStrikeSharp helps prevent against cheaters.
 
