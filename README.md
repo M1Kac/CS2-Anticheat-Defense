@@ -17,6 +17,7 @@ Due to the presence of too many cheaters and too many spammers abusing your comm
 
 [![CounterStrikeSharp](https://img.shields.io/badge/CounterStrikeSharp-83358F)](https://github.com/roflmuffin/CounterStrikeSharp)
 
+Recommended [CS2-SimpleAdmin](https://github.com/daffyyyy/CS2-SimpleAdmin) (Optional)
 
 ---
 
