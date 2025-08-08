@@ -51,5 +51,5 @@ Due to the presence of too many cheaters and too many spammers abusing your comm
 
 ---
 
-## Author Discord Contact: aceflick_zeus
+# Contact Discord: **[CS2 DEV](https://discord.gg/d5uvMmUpuE)**
 
