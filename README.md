@@ -21,11 +21,6 @@ Due to the presence of too many cheaters and too many spammers abusing your comm
 
 ---
 
-> [!NOTE]
-> ACD is useful and effective because it focuses on behavioral detection instead of only looking for known cheats or patterns.
-> It’s not bypassed just because a cheat changes its code - it detects what the player is doing in-game, not just what software they run.           
->
-
 ![image info](./anticheat.jpg)
 
 ## 📥 Installation
@@ -36,6 +31,11 @@ Due to the presence of too many cheaters and too many spammers abusing your comm
 4. Restart your server!
 
 ---
+
+> [!NOTE]
+> ACD is useful and effective because it focuses on behavioral detection instead of only looking for known cheats or patterns.
+> It’s not bypassed just because a cheat changes its code - it detects what the player is doing in-game, not just what software they run.           
+>
 
 ## 🛡 AntiSpam (Included Modules)
 
