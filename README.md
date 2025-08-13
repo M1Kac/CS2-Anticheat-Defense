@@ -21,6 +21,8 @@ Due to the presence of too many cheaters and too many spammers abusing your comm
 
 ---
 
+![image info](./anticheat.jpg)
+
 ## Installation
 
 1. Download the latest `CS2-Anticheat-Defense.zip` from Author Discord
