@@ -1,4 +1,4 @@
-## [ Price ]
+## 🛒 [ Price ]
 ```diff
 + PRICE 10$ ( One Time Payment )
 ```
@@ -20,6 +20,11 @@ Due to the presence of too many cheaters and too many spammers abusing your comm
 **[CS2-SimpleAdmin](https://github.com/daffyyyy/CS2-SimpleAdmin)** (Optional)
 
 ---
+
+> [!NOTE]
+> ACD is useful and effective because it focuses on behavioral detection instead of only looking for known cheats or patterns.
+> It’s not bypassed just because a cheat changes its code — it detects what the player is doing in-game, not just what software they run.           
+>
 
 ![image info](./anticheat.jpg)
 
@@ -53,5 +58,5 @@ Due to the presence of too many cheaters and too many spammers abusing your comm
 
 ---
 
-# Contact Discord: **[CS2 DEV](https://discord.gg/d5uvMmUpuE)**
+# 🔍 Contact Discord: **[CS2 DEV](https://discord.gg/d5uvMmUpuE)**
 
