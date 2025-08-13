@@ -23,6 +23,8 @@ Due to the presence of too many cheaters and too many spammers abusing your comm
 
 ![image info](./anticheat.jpg)
 
+---
+
 ## 📥 Installation
 
 1. Download the latest `CS2-Anticheat-Defense.zip` from Author Discord
@@ -55,6 +57,16 @@ Due to the presence of too many cheaters and too many spammers abusing your comm
 
 ## 📲 Discord Webhook
 - You will receive notifications for every action from ACD
+
+---
+
+| Detection | Description | Values |
+|----------|-------------|--------|
+| `Spinbot` | Our detection focuses on player movement patterns and view angle behavior | `Threshold` |
+| `Aimbot` | Detects aimbots by monitoring unnatural aiming behavior and impossible reaction patterns | `Threshold` |
+| `Triggerbot` | Flags near-zero reaction times when shooting as soon as a target is in the crosshair. | `Threshold` |
+| `SilentAim` | Detects silent aim by identifying shots that hit targets (catching cheats that manipulate aim angles to hide assistance). | `Threshold` |
+| `SilentAim` | Detects blatant wallhacks by tracking actions. | `Threshold` |
 
 ---
 
