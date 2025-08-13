@@ -55,7 +55,7 @@ Due to the presence of too many cheaters and too many spammers abusing your comm
 - [x]  **Bunnyhop**
 - [ ]  **Wallhack** `(not fully supported, but included detections)`
 
-## 📲 Discord Webhook
+## 🔔 Discord Webhook
 - You will receive notifications for every action from ACD
 
 ---
@@ -66,7 +66,9 @@ Due to the presence of too many cheaters and too many spammers abusing your comm
 | `Aimbot` | Detects aimbots by monitoring unnatural aiming behavior and impossible reaction patterns | `Threshold` |
 | `Triggerbot` | Flags near-zero reaction times when shooting as soon as a target is in the crosshair. | `Threshold` |
 | `SilentAim` | Detects silent aim by identifying shots that hit targets (catching cheats that manipulate aim angles to hide assistance). | `Threshold` |
-| `SilentAim` | Detects blatant wallhacks by tracking actions. | `Threshold` |
+| `Wallhack` | Detects blatant wallhacks by tracking actions. | `Threshold` |
+| `Bunnyhop` | Detects perfectly timed consecutive jumps without human delay. | `Threshold` |
+| `Rapid Fire` | Detects rapid-fire cheats by identifying weapon usage patterns that exceed normal human reaction times or game limitations. | `Threshold` |
 
 ---
 
