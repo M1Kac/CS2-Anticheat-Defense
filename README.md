@@ -12,7 +12,7 @@ Due to the presence of too many cheaters and too many spammers abusing your comm
 
 ---
 
-## Dependencies
+## 📚 Dependencies
 [![Metamod:Source](https://img.shields.io/badge/Metamod:Source-2d2d2d?logo=sourceengine)](https://www.sourcemm.net)
 
 [![CounterStrikeSharp](https://img.shields.io/badge/CounterStrikeSharp-83358F)](https://github.com/roflmuffin/CounterStrikeSharp)
@@ -23,7 +23,7 @@ Due to the presence of too many cheaters and too many spammers abusing your comm
 
 ![image info](./anticheat.jpg)
 
-## Installation
+## 📥 Installation
 
 1. Download the latest `CS2-Anticheat-Defense.zip` from Author Discord
 2. Extract contents to your `csgo/addons/counterstrikesharp/plugins` directory
@@ -32,14 +32,14 @@ Due to the presence of too many cheaters and too many spammers abusing your comm
 
 ---
 
-## AntiSpam (Included Modules)
+## 🛡 AntiSpam (Included Modules)
 
 - [x] **AntiChatAbuse**
 - [x] **AntiRadioAbuse**
 - [x] **AntiNickNameAbuse**
 
 
-## Detections
+## 🛡 Detections
 
 - [x]  **Aimbot**
 - [x]  **Spinbot**
@@ -48,7 +48,7 @@ Due to the presence of too many cheaters and too many spammers abusing your comm
 - [x]  **Bunnyhop**
 - [ ]  **Wallhack** `(not fully supported, but included detections)`
 
-## Discord Webhook
+## 📲 Discord Webhook
 - You will receive notifications for every action from ACD
 
 ---
