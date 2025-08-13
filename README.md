@@ -21,12 +21,12 @@ Due to the presence of too many cheaters and too many spammers abusing your comm
 
 ---
 
+![image info](./anticheat.jpg)
+
 > [!NOTE]
 > ACD is useful and effective because it focuses on behavioral detection instead of only looking for known cheats or patterns.
-> It’s not bypassed just because a cheat changes its code — it detects what the player is doing in-game, not just what software they run.           
+> It’s not bypassed just because a cheat changes its code - it detects what the player is doing in-game, not just what software they run.           
 >
-
-![image info](./anticheat.jpg)
 
 ## 📥 Installation
 
