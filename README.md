@@ -55,7 +55,7 @@ Due to the presence of too many cheaters and too many spammers abusing your comm
 - [x]  **Bunnyhop**
 - [ ]  **Wallhack** `(not fully supported, but included detections)`
 
-## 🔔 Discord Webhook
+## 📱 Discord Webhook
 - You will receive notifications for every action from ACD
 
 ---
