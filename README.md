@@ -71,6 +71,10 @@ Due to the presence of too many cheaters and too many spammers abusing your comm
 
 ---
 
+## 🛡 Detection Log
+
+![Detection Screenshot](./detection.png)
+
 ## 🛒 [ Price ]
 ```diff
 + PRICE 10$ ( One Time Payment )
