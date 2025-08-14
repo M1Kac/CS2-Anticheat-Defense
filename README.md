@@ -1,6 +1,6 @@
 ##  Discord Server
 
-[![Discord](./dc.png)](https://discord.gg/d5uvMmUpuE)
+<a href="https://discord.gg/d5uvMmUpuE"><img src="./dc.png"></a>
 
 # CS2 Anticheat Defense
 
