@@ -59,15 +59,15 @@ Due to the presence of too many cheaters and too many spammers abusing your comm
 
 ---
 
-| Detection | Description | Values |
+| ***Detection*** | ***Description*** | ***Values*** |
 |----------|-------------|--------|
-| `Spinbot` | Our detection focuses on player movement patterns and view angle behavior | `Threshold` |
-| `Aimbot` | Detects aimbots by monitoring unnatural aiming behavior and impossible reaction patterns | `Threshold` |
-| `Triggerbot` | Flags near-zero reaction times when shooting as soon as a target is in the crosshair. | `Threshold` |
-| `SilentAim` | Detects silent aim by identifying shots that hit targets (catching cheats that manipulate aim angles to hide assistance). | `Threshold` |
-| `Wallhack` | Detects blatant wallhacks by tracking actions. | `Threshold` |
-| `Bunnyhop` | Detects perfectly timed consecutive jumps without human delay. | `Threshold` |
-| `Rapid Fire` | Detects rapid-fire cheats by identifying weapon usage patterns that exceed normal human reaction times or game limitations. | `Threshold` |
+| **Spinbot** | `Our detection focuses on player movement patterns and view angle behavior` | `Threshold` |
+| **Aimbot** | `Detects aimbots by monitoring unnatural aiming behavior and impossible reaction patterns.` | `Threshold` |
+| **Triggerbot** | `Flags near-zero reaction times when shooting as soon as a target is in the crosshair.` | `Threshold` |
+| **SilentAim** | `Detects silent aim by identifying shots that hit targets (catching cheats that manipulate aim angles to hide assistance).` | `Threshold` |
+| **Wallhack** | `Detects blatant wallhacks by tracking actions.` | `Threshold` |
+| **Bunnyhop** | `Detects perfectly timed consecutive jumps without human delay.` | `Threshold` |
+| **Rapid Fire** | `Detects rapid-fire cheats by identifying weapon usage patterns that exceed normal human reaction times or game limitations.` | `Threshold` |
 
 ---
 
