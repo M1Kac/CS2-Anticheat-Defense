@@ -73,7 +73,7 @@ Due to the presence of too many cheaters and too many spammers abusing your comm
 
 ## 🛡 Detection Log
 
-![Detection Screenshot](./detection.png)
+![Detection Screenshot](./det.png)
 
 ## 🛒 [ Price ]
 ```diff
