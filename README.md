@@ -72,7 +72,7 @@ Due to the presence of too many cheaters and too many spammers abusing your comm
 ---
 
 <details>
-<summary><b>🛡 Detection Log</b> </summary>
+## <summary><b>🛡 Detection Screenshot</b> </summary>
 
 ![Detection Screenshot](./det.png)
 
