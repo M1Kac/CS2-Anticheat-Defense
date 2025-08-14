@@ -3,6 +3,8 @@
 + PRICE 10$ ( One Time Payment )
 ```
 
+[![Discord](./dc.png)](https://discord.gg/d5uvMmUpuE)
+
 # CS2 Anticheat Defense
 
 ### CS2 AntiCheat Plugin based on CounterStrikeSharp helps prevent against cheaters.
