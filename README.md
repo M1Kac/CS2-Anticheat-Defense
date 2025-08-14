@@ -1,7 +1,4 @@
-## 🛒 [ Price ]
-```diff
-+ PRICE 10$ ( One Time Payment )
-```
+##  Discord Server
 
 [![Discord](./dc.png)](https://discord.gg/d5uvMmUpuE)
 
@@ -71,6 +68,13 @@ Due to the presence of too many cheaters and too many spammers abusing your comm
 | `Wallhack` | Detects blatant wallhacks by tracking actions. | `Threshold` |
 | `Bunnyhop` | Detects perfectly timed consecutive jumps without human delay. | `Threshold` |
 | `Rapid Fire` | Detects rapid-fire cheats by identifying weapon usage patterns that exceed normal human reaction times or game limitations. | `Threshold` |
+
+---
+
+## 🛒 [ Price ]
+```diff
++ PRICE 10$ ( One Time Payment )
+```
 
 ---
 
