@@ -78,6 +78,8 @@ Due to the presence of too many cheaters and too many spammers abusing your comm
 
 </details>
 
+## ⚙️ Config
+
 ```json
 {
   "Settings": {
