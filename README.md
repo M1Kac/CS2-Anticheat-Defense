@@ -78,6 +78,61 @@ Due to the presence of too many cheaters and too many spammers abusing your comm
 
 </details>
 
+```json
+{
+  "Settings": {
+    "BanCommand": "css_ban",
+    "Duration": 0,
+    "Webhook": "",
+    "SendWebhook": true,
+    "Logs": true,
+    "AimDataLog": true
+  },
+  "SpinbotDetection": {
+    "Enabled": true,
+    "UnnaturalPrecisionThreshold": 168,
+    "SuspicionThreshold": 3,
+    "BanPlayer": true
+  },
+  "AimbotDetection": {
+    "Enabled": true,
+    "SnapPrecisionThreshold": 80,
+    "MinSnapSpeed": 0.2,
+    "SuspicionThreshold": 3,
+    "BanPlayer": true
+  },
+  "Triggerbot": {
+    "Enabled": true,
+    "PrecisionThreshold": 48,
+    "SuspicionThreshold": 5,
+    "BanPlayer": true
+  },
+  "SilentAimDetection": {
+    "Enabled": true,
+    "MaxHVelocity": 140,
+    "SuspicionThreshold": 5,
+    "BanPlayer": true
+  },
+  "WallHackDetection": {
+    "Enabled": true,
+    "SuspiciousWallbangsThreshold": 6,
+    "SuspiciousWallshotThreshold": 3,
+    "SuspiciousAwarenessThreshold": 3,
+    "BanPlayer": true
+  },
+  "Bunnyhop": {
+    "Enabled": false,
+    "Threshold": 128,
+    "BanPlayer": true
+  },
+  "RapidFire": {
+    "Enabled": false,
+    "Threshold": 3,
+    "BanPlayer": true
+  }
+}
+```
+
 ## 🛒 [ Price ]
 ```diff
 + PRICE 10$ ( One Time Payment )
