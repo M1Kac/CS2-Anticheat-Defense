@@ -92,7 +92,7 @@ Due to the presence of too many cheaters and too many spammers abusing your comm
   },
   "SpinbotDetection": {
     "Enabled": true,
-    "UnnaturalPrecisionThreshold": 168,
+    "UnnaturalPrecisionThreshold": 180,
     "SuspicionThreshold": 3,
     "BanPlayer": true
   },
@@ -111,13 +111,13 @@ Due to the presence of too many cheaters and too many spammers abusing your comm
   },
   "SilentAimDetection": {
     "Enabled": true,
-    "MaxHVelocity": 140,
+    "MaxVelocity": 140,
     "SuspicionThreshold": 5,
     "BanPlayer": true
   },
   "WallHackDetection": {
     "Enabled": true,
-    "SuspiciousWallbangsThreshold": 6,
+    "SuspiciousWallbangsThreshold": 8,
     "SuspiciousWallshotThreshold": 3,
     "SuspiciousAwarenessThreshold": 3,
     "BanPlayer": true
