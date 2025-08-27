@@ -123,12 +123,12 @@ Due to the presence of too many cheaters and too many spammers abusing your comm
     "BanPlayer": true
   },
   "Bunnyhop": {
-    "Enabled": false,
+    "Enabled": true,
     "Threshold": 128,
     "BanPlayer": true
   },
   "RapidFire": {
-    "Enabled": false,
+    "Enabled": true,
     "Threshold": 3,
     "BanPlayer": true
   }
